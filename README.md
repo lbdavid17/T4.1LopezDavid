@@ -9,13 +9,16 @@ Para dar accesibilidad a la web se han implementado atributos alt en las imágen
 Algunas leyes de UX que se han respetado en la web para mejorar la experiencia de usuario son:
 
 ### LEY DE FITTS:
-en la página de contacto se ha usado un gran tamaño para los box de contacto con el objetivo de atraer la atención del que visita la web
+En la página de contacto se ha usado un gran tamaño para los box de contacto con el objetivo de atraer la atención del que visita la web
 ![ley de fitts](readmeImages/2.png)
 
 ### LEY DE JAKOB: 
+El menú sigue una estructura convencional e intuitiva para todos.
+![ley de fitts](readmeImages/4.png)
+![ley de fitts](readmeImages/5.png)
 
 ### LEY DE LA PROXIMIDAD + LEY DE LA SEMEJANZA: 
-en los elementos de la galería es fácil relacionarlos porque comparten un mismo espacio y características y aunque la galería no se presenta como tal el ojo humano entiende a que se dedica ese espacio  
+En los elementos de la galería es fácil relacionarlos porque comparten un mismo espacio y características y aunque la galería no se presenta como tal el ojo humano entiende a que se dedica ese espacio  
 ![ley de la proximidad y semejanza](readmeImages/3.png)
 
 [Enlace al figma](https://www.figma.com/file/e11LHEjReQ4WTmjiY7snnq/T4.1LopezDavid?type=design&node-id=0-1&mode=design)
