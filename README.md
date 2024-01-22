@@ -3,6 +3,8 @@ Web simple creada para la asignatura de interfaces, buscando la práctica de js,
 
 <hr>
 
+### ACCESIBILIDAD:
+
 Para dar accesibilidad a la web se han implementado atributos alt en las imágenes y aria-label para el botón de menú y de desplazamiento del carrusel.
 
 ![accesibilidad](readmeImages/1.png)
