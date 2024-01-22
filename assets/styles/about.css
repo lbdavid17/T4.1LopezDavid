@@ -1,0 +1,86 @@
+.text{
+    margin:  100px 20px 10px 20px;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 25px;
+    padding: 10px;
+    background-color: rgba(251, 251, 251, 0.59);
+    border-radius: 10px;
+}
+
+img {
+	 max-width: 100%;
+}
+.carousel-container {
+	 position: relative;
+     	 max-width: 700px;
+	 margin: auto;
+	 padding: clamp(15px, 2vw, 60px);
+}
+.carousel-images {
+	 width: 100%;
+	 text-align: center;
+	 position: relative;
+	 padding: 0;
+	 margin: 0;
+}
+.carousel-images .carousel-image {
+	 transition: all 0.2s;
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 right: 0;
+	 z-index: 0;
+	 text-align: center;
+	 padding: 0;
+	 transition: all 0.2s ease-in;
+	 opacity: 0;
+	 visibility: hidden;
+}
+.carousel-images .carousel-image.active {
+	 display: block;
+	 position: relative;
+	 top: unset;
+	 left: unset;
+	 right: unset;
+	 z-index: 1;
+	 opacity: 1;
+	 visibility: visible;
+}
+
+ .carousel-nav {
+	 display: flex;
+	 position: absolute;
+	 top: calc(50% - 40px);
+	 left: 0;
+	 right: 0;
+	 z-index: 999999;
+	 font-size: 2rem;
+	 line-height: 1;
+	 user-select: none;
+}
+.carousel-nav .next, .carousel-nav .previous {
+    cursor: pointer;
+    padding: 20px 10px;
+    color: #fff;
+}
+ .carousel-nav .next {
+	 margin-left: auto;
+}
+ .carousel-nav .previous {
+	 margin-right: auto;
+}
+.carousel-nav .next, .carousel-nav .previous {
+    width: auto;
+    height: 18px;
+    stroke-width: 1.5px;
+    stroke: currentColor;
+}
+
+.carousel-nav .next svg, .carousel-nav .previous svg {
+    width: auto;
+    height: 35px;
+    stroke-width: 2.5px;
+    stroke: #fff;
+    fill: #fff;
+}
