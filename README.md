@@ -4,7 +4,7 @@ Web simple creada para la asignatura de interfaces, buscando la práctica de js 
 <hr>
 
 Para dar accesibilidad a la web se han implementado atributos alt en las imágenes y aria-label para el botón de menú y de desplazamiento del carrusel.
-![ley de fitts](readmeImages/1.png)
+![accesibilidad](readmeImages/1.png)
 
 Algunas leyes de UX que se han respetado en la web para mejorar la experiencia de usuario son:
 
@@ -14,8 +14,8 @@ En la página de contacto se ha usado un gran tamaño para los box de contacto c
 
 ### LEY DE JAKOB: 
 El menú sigue una estructura convencional e intuitiva para todos.
-![ley de fitts](readmeImages/4.png)
-![ley de fitts](readmeImages/5.png)
+![ley de jakobs](readmeImages/4.png)
+![ley dejakobs](readmeImages/5.png)
 
 ### LEY DE LA PROXIMIDAD + LEY DE LA SEMEJANZA: 
 En los elementos de la galería es fácil relacionarlos porque comparten un mismo espacio y características y aunque la galería no se presenta como tal el ojo humano entiende a que se dedica ese espacio  
