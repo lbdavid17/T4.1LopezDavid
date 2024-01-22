@@ -1,6 +1,7 @@
 # T4.1LopezDavid
 Web simple creada para la asignatura de interfaces, buscando la práctica de js y la accesibilidad y la UX.
 
+<hr>
 
 Para dar accesibilidad a la web se han implementado atributos alt en las imágenes y aria-label para el botón de menú y de desplazamiento del carrusel.
 
